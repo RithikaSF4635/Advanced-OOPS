@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Inside/1.0.0": {
+        "dependencies": {
+          "Outside": "1.0.0"
+        },
+        "runtime": {
+          "Inside.dll": {}
+        }
+      },
+      "Outside/1.0.0": {
+        "runtime": {
+          "Outside.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inside/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Outside/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

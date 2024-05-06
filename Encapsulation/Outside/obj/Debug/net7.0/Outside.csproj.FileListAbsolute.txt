@@ -1,0 +1,15 @@
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\Outside.csproj.AssemblyReference.cache
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\Outside.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\Outside.AssemblyInfoInputs.cache
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\Outside.AssemblyInfo.cs
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\Outside.csproj.CoreCompileInputs.cache
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\bin\Debug\net7.0\Outside.exe
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\bin\Debug\net7.0\Outside.deps.json
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\bin\Debug\net7.0\Outside.runtimeconfig.json
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\bin\Debug\net7.0\Outside.dll
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\bin\Debug\net7.0\Outside.pdb
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\Outside.dll
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\refint\Outside.dll
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\Outside.pdb
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\Outside.genruntimeconfig.cache
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\Encapsulation\Outside\obj\Debug\net7.0\ref\Outside.dll

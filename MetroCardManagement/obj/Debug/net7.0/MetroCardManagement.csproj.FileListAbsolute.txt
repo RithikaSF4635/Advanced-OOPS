@@ -1,0 +1,15 @@
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\MetroCardManagement.csproj.AssemblyReference.cache
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\MetroCardManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\MetroCardManagement.AssemblyInfoInputs.cache
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\MetroCardManagement.AssemblyInfo.cs
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\MetroCardManagement.csproj.CoreCompileInputs.cache
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\bin\Debug\net7.0\MetroCardManagement.exe
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\bin\Debug\net7.0\MetroCardManagement.deps.json
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\bin\Debug\net7.0\MetroCardManagement.runtimeconfig.json
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\bin\Debug\net7.0\MetroCardManagement.dll
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\bin\Debug\net7.0\MetroCardManagement.pdb
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\MetroCardManagement.dll
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\refint\MetroCardManagement.dll
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\MetroCardManagement.pdb
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\MetroCardManagement.genruntimeconfig.cache
+C:\Users\RithikaRajendran\OneDrive - Syncfusion\Desktop\MetroCardManagement\obj\Debug\net7.0\ref\MetroCardManagement.dll
